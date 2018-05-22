@@ -1,0 +1,9 @@
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe.config
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.pdb
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.Form1.resources
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.exe
+c:\users\mark\documents\visual studio 2013\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.pdb
